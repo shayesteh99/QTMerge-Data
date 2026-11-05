@@ -1,0 +1,59 @@
+n=101, m=10, num_trees=10
+  Computing pairwise gene tree distances...
+  Distances computed in 10.5s
+
+Merging 7 subtrees
+
+  Merging pair 0: 51 + 23 leaves
+    assignments: [0, 0, 0, 0]
+    assignments: [2, 2, 2, 2]
+    assignments: [0, 0, 0, 0]
+    assignments: [2, 2, 2, 2]
+
+  Merging pair 1: 39 + 21 leaves
+    assignments: [2, 2, 2, 2]
+    assignments: [0, 0, 0, 0]
+    assignments: [2, 2, 2, 2]
+    assignments: [2, 2, 2, 2]
+    assignments: [0, 0, 0, 0]
+    assignments: [2, 2, 2, 2]
+
+  Merging pair 2: 33 + 15 leaves
+    assignments: [1, 1, 1, 1]
+    assignments: [0, 0, 0, 0]
+
+  Merging pair 0: 13 + 61 leaves
+    assignments: [2, 2, 2, 2]
+    assignments: [2, 2, 2, 2]
+
+  Merging pair 1: 75 + 49 leaves
+    assignments: [2, 2, 2, 2]
+    assignments: [0, 0, 0, 0]
+    assignments: [2, 2, 2, 2]
+    assignments: [2, 2, 2, 2]
+    assignments: [1, 1, 1, 1]
+    assignments: [2, 2, 2, 2]
+    assignments: [0, 0, 0, 0]
+    assignments: [2, 2, 2, 2]
+    assignments: [0, 0, 0, 0]
+
+  Merging pair 0: 75 + 125 leaves
+    assignments: [2, 2, 2, 2]
+    assignments: [2, 2, 2, 2]
+    assignments: [2, 2, 2, 2]
+    assignments: [0, 0, 0, 0]
+    assignments: [1, 1, 1, 1]
+    assignments: [2, 2, 2, 2]
+    assignments: [2, 2, 2, 2]
+    assignments: [2, 2, 2, 2]
+    assignments: [2, 2, 2, 2]
+    assignments: [2, 2, 2, 2]
+    assignments: [2, 2, 2, 2]
+    assignments: [0, 0, 0, 0]
+    assignments: [1, 1, 1, 1]
+    assignments: [2, 2, 2, 2]
+    assignments: [2, 2, 2, 2]
+    assignments: [0, 0, 0, 0]
+    assignments: [2, 1, 2, 2]
+    assignments: [2, 2, 2, 2]
+367.1222839355469

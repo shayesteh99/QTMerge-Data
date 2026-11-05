@@ -1,0 +1,50 @@
+n=101, m=10, num_trees=10
+  Computing pairwise gene tree distances...
+  Distances computed in 10.3s
+
+Merging 8 subtrees
+
+  Merging pair 0: 43 + 25 leaves
+    assignments: [2, 2, 2, 2]
+    assignments: [1, 1, 1, 1]
+    assignments: [2, 2, 2, 2]
+    assignments: [2, 1, 2, 2]
+    assignments: [1, 1, 1, 1]
+
+  Merging pair 1: 33 + 15 leaves
+    assignments: [2, 2, 2, 2]
+    assignments: [2, 2, 2, 2]
+    assignments: [0, 0, 0, 0]
+
+  Merging pair 2: 29 + 13 leaves
+    assignments: [0, 0, 0, 0]
+    assignments: [2, 2, 2, 2]
+
+  Merging pair 3: 27 + 9 leaves
+    assignments: [2, 2, 2, 2]
+
+  Merging pair 0: 69 + 43 leaves
+    assignments: [1, 1, 1, 1]
+    assignments: [2, 2, 2, 2]
+    assignments: [1, 1, 1, 1]
+    assignments: [2, 2, 2, 2]
+    assignments: [1, 1, 0, 1]
+    assignments: [2, 2, 2, 2]
+    assignments: [0, 0, 1, 0]
+
+  Merging pair 1: 49 + 37 leaves
+    assignments: [2, 2, 2, 2]
+    assignments: [2, 2, 2, 2]
+    assignments: [0, 0, 0, 0]
+    assignments: [2, 2, 2, 2]
+    assignments: [2, 2, 2, 2]
+
+  Merging pair 0: 113 + 87 leaves
+    assignments: [0, 2, 0, 0]
+    assignments: [2, 2, 2, 2]
+    assignments: [1, 1, 1, 1]
+    assignments: [2, 2, 2, 2]
+    assignments: [2, 2, 2, 2]
+    assignments: [0, 0, 0, 0]
+    assignments: [2, 2, 2, 2]
+299.93037009239197
